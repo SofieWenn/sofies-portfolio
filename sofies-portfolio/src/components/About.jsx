@@ -8,7 +8,7 @@ export default function About() {
             <img src={profilbild} className="card-img" alt="Profilbild" />
             <div className="card-body">
                 <h2 className="card-title">Här kommer lite information om mig</h2>
-                <p className="card-text">Jag bor i Grängesberg i Ludvika kommun tillsammans med min man och våra tre tonårsbarn. 
+                <p className="card-text">Jag är en nyutexaminerad systemvetare som bor i Grängesberg i Ludvika kommun tillsammans med min man och våra tre tonårsbarn. 
                     Jag har tidigare arbetat inom serviceyrken - i butik, på café och som fotograf.
                 </p>
                 <h3 className="card-subtitle"><strong>Tekniska Färdigheter:</strong></h3>
